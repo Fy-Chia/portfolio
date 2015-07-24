@@ -2884,7 +2884,7 @@
 
 	#one {
 		background: url("../../images/one.jpg");
-		background-size: 256px 256px, cover;
+		/*background-size: 256px 256px, cover;*/
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
@@ -3149,7 +3149,7 @@
 			text-indent: -9999px;
 			z-index: 2;
 			opacity: 0;
-			-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+			-webkit-tap-highlight-color: rgba(64, 64, 64, 0.8);
 		}
 
 			.poptrox-popup .closer:before {
