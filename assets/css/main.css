@@ -3314,8 +3314,7 @@
 
 			body {
 				min-width: 320px;
-				/*font-size: 12pt;*/
-				font-size: 10pt;
+				font-size: 12pt;
 				line-height: 1.5em;
 			}
 
@@ -3369,7 +3368,7 @@
 
 				.main.style2 .content {
 					/*width: 100%;*/
-					width: 70%;
+					width: 100%;
 					/*left: 0% !important;*/
 					left: 50%; 
 					/*text-align: center;*/
