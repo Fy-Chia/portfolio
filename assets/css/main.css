@@ -3267,13 +3267,11 @@
 		/* Main */
 
 			.main.style2 .content {
-				/*width: 60%;*/
-				width: 30%;
+				width: 60%;
 			}
 
 			.main.style2.right .content {
-				/*left: 40%;*/
-				left: 80%;
+				left: 40%;
 			}
 
 			.main.style2.inactive.left .content {
@@ -3371,7 +3369,8 @@
 				.main.style2 .content {
 					width: 100%;
 					left: 0% !important;
-					text-align: center;
+					/*text-align: center;*/
+					text-align: right;
 				}
 
 				.main.style2 .tmp {
