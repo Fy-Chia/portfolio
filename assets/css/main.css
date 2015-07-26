@@ -3237,11 +3237,13 @@
 		/* Main */
 
 			.main.style2 .content {
-				width: 50%;
+				/*width: 50%;*/
+				width: 25%;
 			}
 
 			.main.style2.right .content {
-				left: 50%;
+				/*left: 50%;*/
+				left: 80%;
 			}
 
 			.main.style2.inactive.left .content {
