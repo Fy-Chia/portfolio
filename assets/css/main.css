@@ -3243,7 +3243,7 @@
 
 			.main.style2.right .content {
 				/*left: 50%;*/
-				left: 80%;
+				left: 50%;
 			}
 
 			.main.style2.inactive.left .content {
@@ -3273,7 +3273,8 @@
 			}
 
 			.main.style2.right .content {
-				left: 40%;
+				/*left: 40%;*/
+				left: 20%;
 			}
 
 			.main.style2.inactive.left .content {
