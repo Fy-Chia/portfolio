@@ -3368,11 +3368,11 @@
 
 				.main.style2 .content {
 					/*width: 100%;*/
-					width: 100%;
+					width: 70%;
 					/*left: 0% !important;*/
 					left: 30%; 
 					/*text-align: center;*/
-					text-align: right;
+					text-align: center;
 				}
 
 				.main.style2 .tmp {
