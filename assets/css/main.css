@@ -2940,6 +2940,7 @@
 	#contact {
 		padding-bottom: 0;
 		overflow: hidden;
+		text-align: center;
 	}
 
 		#contact .box {
@@ -3314,7 +3315,7 @@
 
 			body {
 				min-width: 320px;
-				font-size: 10pt;
+				font-size: 12pt;
 				line-height: 1.5em;
 			}
 
@@ -3355,7 +3356,7 @@
 				}
 
 			.main.style2 {
-				padding: 6em 15px 6em 15px;
+				padding: 6em 15px 6em 25px;
 			}
 
 				.main.style2:before, .main.style2:after {
