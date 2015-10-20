@@ -2819,7 +2819,7 @@
 		top: 0;
 		width: 100%;
 		background: #fff;
-		background: rgba(255, 255, 255, 0.95); /* 239,63,67*/
+		background: rgba(255, 255, 255, 0.95);
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
@@ -3200,7 +3200,7 @@
 		/* Main */
 
 			.main.style2 .content {
-				width: 30%;
+				width: 40%;
 			}
 
 			.main.style2.right .content {
@@ -3232,21 +3232,21 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 15pt;
+				font-size: 13pt;
 			}
 
 		/* Main */
 
 			.main.style2 .content {
-				width: 30%;
+				width: 50%;
 			}
 
 			.main.style2.right .content {
-				left: 60%;
+				left: 50%;
 			}
 
 			.main.style2.inactive.left .content {
-				left: -40%;
+				left: -50%;
 			}
 
 	}
@@ -3258,7 +3258,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 14pt;
+				font-size: 13pt;
 			}
 
 			.container > .container {
@@ -3268,15 +3268,15 @@
 		/* Main */
 
 			.main.style2 .content {
-				width: 30%;
+				width: 60%;
 			}
 
 			.main.style2.right .content {
-				left: 60%;
+				left: 40%;
 			}
 
 			.main.style2.inactive.left .content {
-				left: -40%;
+				left: -60%;
 			}
 
 		/* Footer */
@@ -3369,8 +3369,8 @@
 
 				.main.style2 .content {
 					/*width: 100%;*/
-					width: 40%;
-					left: 50% !important;
+					width: 60%;
+					left: 40% !important;
 					/*text-align: center;*/
 					text-align: left;
 					font-size: 10pt;
